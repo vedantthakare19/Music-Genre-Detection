@@ -45,8 +45,8 @@ A machine learning project to automatically classify music into genres using bot
 
 ---
 
-## 📊 Results (Optional – if you have)  
-- Best performing model: (e.g., **Random Forest – XX% accuracy**)  
+## 📊 Results 
+- Best performing model: SVM with 87% accuracy
 - Visualization of clusters and confusion matrix for classification.  
 
 ---
